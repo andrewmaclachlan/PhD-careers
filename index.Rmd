@@ -112,7 +112,7 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
-# Submitted September 2019 and only the started applying 
+# Submitted September 2019 and only then started applying 
 
 --
 
