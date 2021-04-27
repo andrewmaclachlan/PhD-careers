@@ -1,5 +1,5 @@
 ---
-title: "Studying for a dissertation"
+title: "Applying for jobs"
 #subtitle: "⚔<br/>with xaringan"
 author: "Andy MacLachlan"
 output:
@@ -47,11 +47,13 @@ class: inverse, center, title-slide, middle
 library(fontawesome)
 ```
 
-# Studying for a dissertation
+# Applying for jobs
+
+## A presentation on experience not science
 
 ### Andy MacLachlan
 
-### 14/04/2021 (updated: `r format(Sys.time(), "%d/%m/%Y")`)
+### 26/04/2021 (updated: `r format(Sys.time(), "%d/%m/%Y")`)
 
 `r fa("paper-plane", fill = "white")`[a.maclachlan@ucl.ac.uk](mailto:a.maclachlan@ucl.ac.uk)
 `r fa("twitter", fill = "white")`[andymaclachlan](https://twitter.com/andymaclachlan)
@@ -59,547 +61,547 @@ library(fontawesome)
 `r fa("map-marker", fill = "white")`[Centre for Advanced Spatial Analysis, UCL](https://www.ucl.ac.uk/bartlett/casa/)
 
 <a href="https://github.com/andrewmaclachlan" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#fff; color:#151513; position: absolute; top: 0; border: 0; left: 0; transform: scale(-1, 1);" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
-
----
-class: inverse, center, middle
-
-![writing gif](img/phdwrite.gif)
-
----
-class: inverse, center, middle
-
-# Start somewhere...anywhere, but make sure you start
-
 ---
 
-# What do(n't) you know?
+# Outline 
 
-It's easy to list everything you don't know or aren't good at
+Focus on industry roles as no one ever really tells you how to apply - or no one told me.
 
-**Focus on and list:**
+This has come from the RGS session last week, where I felt no one actually said how to do this, even though we were all asked to reflect on our careers post PhD.
 
-- What methods you know
+It was sort of scary how many people defaulted to the classic academic introduction even though we'd been asked to say how we'd ended up in our roles. 
 
-- What literature you know / have read
+--
 
-- What theories you know
+**It's as if no one really wants to talk about how difficult it is.**  
 
-- What tools you know
+A second session will look at academic roles and applications 
 
-**Once you have that the link them together:**
+Two parts of this session:
 
-- Mind map
-
-- Miro board
-
-- Trello board
-
-- Literature review or summary
-
-- Who agrees and disagrees, where, why, when, what has changed
-
----
-class: inverse, center, middle
-
-![](https://media.giphy.com/media/XyaQAnihoZBU3GmFPl/giphy.gif)
-
----
-# Set expectations 
-
-What do you want to gain from the dissertation and what is your end **GOAL** to the degree?
-
-Tell you supervisor: 
-
-- What you want to do after your degree
-
-- What skills you think you might need
-
-- Ask them what they think
-
-**THEN** 
-
-- Set up your dissertation to ensure you cover them
-
-- Demonstrate them to your supervisor and the wider world?
-
-- Ask them what they think, from their experience 
-
----
-
-class: inverse, center, middle
-
-# Remember it's *your* project
----
-# Read `r fa("book-reader")`
-
-Most staff members will say *"you should read widely"* but what does this mean and why bother?
-
-Partly, it goes back to what do you want to learn? But also there are two "types" of reading:
-
-1. Setting the scene reading
-
-  * This refers to broader, often global challenges, perahps from a different discipline altogether   
-
-  * Journals such as Science, Nature or Global policy documents
-
-2. Technical reading
-
-  * The nitty gritty of the methods
-
-  * The specific detail of your study area
-
-  * Perhaps local policy challenges
+  * Tips from interviews 
   
-  * Usually more specialist journals 
+  * Dealing with competency questions
+  
+---
+
+# Roles I got an interview for post PhD 
+
+*	GLA (1 interview, 1 role) + assessment
+
+*	C40 Cities (3 interviews, 1 role) + assessment
+
+*	DEFRA (2 interviews, 2 roles) – one had 50 vacancies! + assessment(s)<sup>1</sup>
+
+*	UCL (2 interviews, 2 roles) - 1 non academic + assessment before the interview, presented at the interview
+
+*	Telespazio (1 role, 1 interview)
+
+* Airbus / some subsidiary company (1 role, 1 interview)
+
+*	CRUK (2 interviews, 2 roles) + assessment
+
+
+
+.footnote[
+[1] Just to get to this stage i'd applied for around 6 positions with competency questions and video tasks]
 ---
 class: inverse, center, middle
 
-```{r echo=FALSE, out.width = "400pt", fig.align='center'}
-knitr::include_graphics('img/filter.png') 
+![](https://media.giphy.com/media/xT5LMHO4pnXbuU3J5K/giphy.gif)
+---
+class: inverse, center, middle
+
+# Submitted September 2019 and only the started applying 
+
+--
+
+# probably wrote near 100 applications 
+
+---
+
+class: inverse, center, middle
+
+# You hold the highest degree possible
+
+## Published papers, won grants, spoken at conferences, gained a teaching qualification
+
+### Done everything, everyone has told you to do
+
+---
+
+class: inverse, center, middle
+
+# So it's very frustrating when you can't get a role in a related field 
+
+## no one ever says this is normal - it is
+
+---
+class: inverse, center, middle
+
+# Qualify your panel / assessor 
+
+## Do they know what a PhD is and what it invovles
+
+---
+
+# Assumptions
+
+In our industry everyone knows what a PhD is 
+
+It's essential to be aware of different career paths who might not.
+
+Those interviewing you:
+
+- Might not have attended University 
+
+- Might have secured their role after their undergraduate and been promoted within 
+
+- Might not equate your "PhD student" experience to "actual" experience
+
+- Might not have had postgraduate teaching assistants depending on their degree
+
+- Might not really care if you have published, or really know what's involved. 
+
+As an undergraduate or high school student did you know the publishing process or did you know what a PhD was?
+
+---
+class: inverse, center, middle
+
+# An interviewer: 
+
+> I didn't realise a PhD invovled all that, i assumed it was just an extension of an undergraduate degree.
+
+
+> I had no idea that you could teach students during a PhD.
+
+---
+class: inverse, center, middle
+
+# You are not a PhD student, you are a doctoral researcher 
+
+---
+class: inverse, center, middle
+
+# Student 
+
+```{r echo=FALSE, out.width = "200pt", fig.align='center'}
+knitr::include_graphics('https://media.giphy.com/media/3KC2jD2QcBOSc/giphy.gif') 
 ```
----
-# Writing - introduction
-
-If you look at any paper, they usually start with a broad introduction to the issue they are exploring.
-
-The introduction will talk about Global challenges:
-
-* Global urban area expansion
-
-* Population increase
-
-* Challenges of sustainability 
-
-Towards the end of the introduction links will be made to specific local case studies / literature
-
-* For example, in the London Plan temperature mitigation is specified but no methodological details are provided
-
-* In recent years the development of local models to predict temperature has resulted in the potential to actively reform building construction yet....
 
 ---
 class: inverse, center, middle
-# Start of introduction
->Traffic safety problems are causing incommensurate harm to pedestrians in cities around the world (Bartolomeos et al. 2013). In the United States, 49,340 pedestrians were killed by moving vehicles between 2008 and 2017 (Zaccaro 2019). As walkability becomes more central in the minds of transportation planners, government officials, and citizens due to the corresponding advantages in the realms of health, wealth, and happiness (see section 2.1), it is critical that pedestrian traffic fatalities come to be seen not as inevitable accidents, but as ‘preventable and unacceptable’ occurrences (City of Charlotte DOT 2019, p. 8). Further, it is essential that burgeoning cities like Charlotte, North Carolina, where this study is focused, are able to grow in ways that are both sustainable and appealing. In such places, effectively addressing pedestrian safety and walkability will be one of the keys to future success. Accordingly, this goal is an important component of various global and local policies (see section 2.2).
 
-`r countdown(minutes=1, seconds =30, warn_when = 10, top=0, left=0)`
+# Researcher 
+
+```{r echo=FALSE, out.width = "200pt", fig.align='center'}
+knitr::include_graphics('https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif') 
+```
+
+---
+
+# Why compaines hire - see Geolytix talk
+
+Two main reasons:
+
+* Replace someone - very specific skills 
+
+* Expanding - looking for good people
+
+In industry it's unlikely you will be able to email the hiring manager, you can try but HR will often reply. 
+
+But in the interview you can ask why are you recruiting **first**, before they start asking you questions.
+
+If they are replacing someone then tailor your answers to the job description.
+
+If they are expanding then showcase the breadth of your work more.
+
+**It's hard when you don't know**
+
+---
+# Interviewers
+
+Two types of interviews
+
+* Those who want a quick fix to do a set task / role
+
+  - i was told i'd be expected to write Python code all day for image processing
+  - there would be limited opportunity to propose projects
+  - most of the lab held PhDs
+  - wanted the job to be done, nothing else
+
+* Those who can see and want to nurture talent
+  
+  - outline development opportunities
+  - open to you proposing different ideas
+  - will grant you time to pursue other interesting things
+
+**Usually** you are looking for the second
+
+The first will **often** be boring. 
+
+---
+# Assessments
+
+My general thought process on this
+
+> I've not spent 4 years doing a PhD to be assessed on a 30 minute task
+
+--
+
+But I was. It was awful. When is anyone ever assessed like that in real life.
+
+--
+## Tasks included
+
+* I was presented with 10 sources on pension reform and had to evaluate them + produce recommendations for policy change or further investigation in the interview
+
+--
+
+* I was given an Excel spreadsheet and some information and had to compute the potential for using solar panels in informal settlements
+
+--
+
+* I was asked to design an engagement strategy for a local sustainable initiative  
+
+--
+
+* An SQL test 
+
+---
+# Assessments 2
+
+Know your audience and what they want...
+
+--
+
+In the 10 sources on pension form - they wanted a answer. 
+
+I picked holes in all of the studies before providing one.
+
+--
+
+I badly failed the SQL test, but I did say I could do this all in R.
+
+---
+
+# It's **YOUR** project 
+
+Academics avoid talking about themselves / their work in the first person...usually. "The project"
+
+* A PhD is **your** project, at an interview they want to know what you did, **specifically you**
+
+--
+
+* In a PhD you do everything, you are:
+
+  * the project manager
+  * the researcher
+  * the trainer 
+  * the PR person
+  * the collaborator contact 
+  * the finance person (sort of, managing research funds etc)
+  * the content creator 
+  * the analyst
+  * the programmer
+  * the brand manager (of your project)
+  * the policy officer (producing recommendations)
+  * the product owner / maintainer (your academic work / code)
+  * the novelist!
+  
+  + whatever else you do 
+
 ---
 class: inverse, center, middle
-# End of introduction
-> Ultimately, this study intendsto contribute to the field of traffic safety research by further investigating the possibilities for data-driven advocacy for pedestrian needs and solutions. In the words of the visionary Enrique Penalosa, ‘The essence of the conflict today, really, is cars and people...We can have a city that is very friendly to cars, or a city that is very friendly to people. We cannot have both’ (NYC Streets Renaissance 2006).
 
-`r countdown(minutes=00, seconds =45, warn_when = 10, top=0, left=0)`
+# Another major difference
+--
 
----
-# Writing - literature review
-
-What has been done before, write a story and show what you are trying to investigate and contribute.
-
-What not to do - that students always do despite how many times i tell them.
-
-> Jones et al. (2017) found an interesting relationship between tree canopy coverage and heart diseases. They concluded more trees should be planted where there is a higher prevalence of heart disease. Zhang et al. (2014) found no relationship between tree canopy coverage. Smith et al. (2007) showed that trees and lung disease were related. 
-
-This is just a list. Your job is to tell a story:
-
-* What do studies show broadly are they similar or different
-* How do studies advance each other
-* What do they agree on 
-* What do they disagree on
-* Why do you think that is
-* How can that be applied to your study.
+## You have full responsbility for the project
 
 ---
 class: inverse, center, middle
-# Literature review example
 
-> According to the World Health Organization, twenty-two percent of all road fatalities each year are pedestrians (Bartolomeos et al. 2013, p. vii). This unsettling statistic can perhaps be attributed to the rapid growth of urban centers, paired with a lack of effort to expand pedestrian facilities (Halais 2020). Indeed, pedestrian safety is a problem all over the world. In cities in sub-Saharan Africa, more than half of all trips occur by foot (Pendakur 2005, p. 10), yet pedestrians are regularly and disproportionately involved in incidents with motor vehicles due to a lack of sufficient walkways, lighting, and other helpful urban design provisions (Halais 2020, Murgu´ıa 2018). 
+# This often doesn't fit easily into job roles as they are usually focus on one or two of these
+--
 
-`r countdown(minutes=1, seconds =00, warn_when = 10, top=0, left=0)`
+## Combined with how academics are trained to talk and write
+
+--
+
+## = No job
 
 ---
-# Writing - methods, results
+# Break it down
 
-In the methods the writing usually stays focused on the current study area. It's good to have a few links to Global issues. For example:
+It's very unlikely that a **single** employee has worked on a large project for the same time as your PhD (3-4 years). 
 
-* Whilst the study has used this local data, a Global alternative is x
+Most companies work in teams on nearly all projects in some form. Teams that code together and write together. 
 
-* This attempts to provide a methodological basis for use with the Global Sustainable Development Goal, x, y, z
+Introduction 
 
-* The results show x, y, z, this contrasts to Jones et al. 2017 who exhibited this other trend
+* Start by stating that - setting expectations + most examples are from my doctoral research that I have been solely responsible for the last four years.
 
-Don't just list your results you want a sprinkling of literature throughout. 
+* Talk about how you **developed** the project and specific milestones 
+
+* How you set goals / targets, monitored and achieved them with proof
+
+* How you led people with competing interests for to solve mutual common problems 
+
+* How you overcame challenges - methodological, but usually people related are better examples. 
+
+* Often companies can find someone to fix a technical issue, but they can't *easily* fix people issues.
+
+---
+# Break it down
+
+Remember that **most of the time** they don't really care about the specifics of your work. More, the area you have worked in and the transferable skills you have.
+
+They are **probably** scoring you as you talk on set criteria. 
+
+Questions
+
+* Refer to your PhD but to specific roles you were doing not just 'the PhD'
+--
+
+
+* As an (international) project manager I set the direction of the project with collaborative support from more senior members of staff and stakeholders
+
+--
+
+
+* As the only programmer on the task I dealt with complex, large and messy datasets on a regular basis...my process for handling data is...
+
+--
+
+
+* As the data visulization expert on the project...
+
+---
+# Questions about project planning 
+
+It's not always directly obvious how you plan your PhD - often it's organic but industry like a formal process. 
+
+* Waterfall - like manufacturing, linear 
+
+* Agile - incremental and iterative. 
+
+--
+
+* SMEAC
+
+Situation, Mission, Execution, Administration, Communication   
+
 ---
 class: inverse, center, middle
-# Methods example
 
-## Provide a high level overview first
+# Dealing with competency questions
 
-> The number of crashes were predicted per road segment using the selected negative binomial regression model and the predictions were compared to the true values, again using MAE, MSE, and RMSE. Where an observation was missing data, the required values were imputed using the rfImpute() function (Breiman 2003). The predicted crashes were mapped, with emphasis on the top 1% and top 25% most dangerous roads. Kumfer et al. (2019) used Empirical Bayes estimates to weight the predictions with historical crash data, but this step was omitted here. The authors write that the non-weighted predictions offer ‘a more holistic measure of pedestrian crash risk, given the uncertainty about future crash locations inherent in any crash prediction method’ (Kumfer et al. 2019, p. 427).
+---
+# What are competencies
 
-`r countdown(minutes=1, seconds =00, warn_when = 10, top=0, left=0)`
+Qualities that an employer wants to have in their team / organisation 
+
+Levels the playing field a bit in terms of qualifications - to an extent, as long as you can show the competency the example doesn't really matter. 
+
+--
+
+Examples:
+
+* Decision making
+
+* Leadership
+
+* Conflict resolution 
+
+* Team building 
+
+* Problem solving
+
+--
+
+These are then categorised at different levels or grades depending on the role
 
 ---
 class: inverse, center, middle
-# Results example
 
-> Figures 4.3 and 4.4 display the actual crash data and the predicted number of crashes spatially. These visualizations show that the model predictions have captured roads that have been dangerous in the past, while also highlighting roads that should potentially be the focus of future concern. To further emphasize the unsafe areas highlighted by the model, the top 1% and top 25% most dangerous roads based on the number of predicted crashes were located and mapped (see figure 4.5). The actual and predicted crash statistics for the 6 roads in the top 1% most dangerous can be seen in table 4.4.
+# Within your PhD you will have shown all these skills but they aren't always directly obvious like perhaps in an industry workplace envrionment 
 
-`r countdown(minutes=0, seconds =45, warn_when = 10, top=0, left=0)`
+---
+# Example 1 - grade 7 role statement
+
+This got me an interview after two online assessments 
+
+Look at the language i've used and the titles i've called my positions. It's written so the person reading it doesn't need to know what a PhD is. 
+
+e.g. 
+
+> I have just completed a term serving as an **international, multi-institutional and multi-disciplinary project manager between a top UK and Australian university with association to Australian state and local government departments**. As the funding for this **project is concluding, and having successfully delivered all project outcomes on time and within budget** I am **seeking** an applied and policy oriented research role with a social and/or environmental focus
+
+I then state why i'm interested 
+
+> Being the government department for environmental protection I was drawn to explore relevant challenging and exciting vacancies within DEFRA that could benefit from my skill set whilst providing personal professional development opportunities to enhance my applied research ability.
+
+---
+# Example 1 - grade 7 role statement
+
+Next up is technical qualifications that i meet - clearly stated 
+
+> I am able to meet all technical requirements with a first class honours degree in human geography, a master’s degree with distinction in applied geographic information systems and remote sensing alongside a doctorate degree in geography, specifically applied sustainable city development.
+
+Then i move to what **I** have done:
+
+> In this role **I acted decisively** in guiding my work through unbiased and data informed decisions making sense of international, national and local pressures in adhering to strategic development goals. **I fostered international and multi-disciplinary project links**, managed a scientific team and engaged stakeholders with differing agendas to form consensus based solutions with enthusiasm and passion. **I took personal responsibility for driving my work forward, clearly outlined roles and responsibilities through translating project priorities into outcome focused objectives** alongside consistent evaluation, with adjustments where necessary.
+
+---
+# Example 1 - grade 7 role statement
+
+This application wanted you to talk about the varying needs of partners. I had a sentance almost replicating the requirement....
+
+> I understood the **varying needs of all partners and adapted materials and outputs where necessary, building strong interpersonal relationships inducing an inclusive working environment, sharing knowledge and resources**. The project was successfully delivered **on time and within budget and I received national recognition**. These successes provide external validation of my applied, multi-institutional and innovative research abilities.
 
 ---
 
+# Example 1 - grade 7 role statement
+
+I explicitly state how my skills are transferable 
+
+> Whilst aforementioned positions and experiences are specific to geographical discipline my transferable skills include: innovative research development, statistical analysis, (big) data processing and management, team management and team work alongside successful grant bidding, concise written communication, effective image design, teaching and public speaking. 
+
+I end with excitement about the role + where my papers can be found. 
+
+> The challenges posed from the advertised evidence specialists and analysts aim to provide exciting insights to shape, monitor and evaluate policies. With my applied research background I would supply valuable contributions in assuring applied, effective and data-informed recommendations and evaluations.
+
+Usually they ask you not to include any personal or identifiable information. 
+
+---
 class: inverse, center, middle
-# Discussion 
+# Versions of PEE or STAR* 
+
+## Point, Example, Explain
+
+## Situation, Task, Action, Result
+
+.footnote[
+* also useful at interviews]
+
+---
+class: inverse, center, middle
+# Point?
 
 ![](https://media.giphy.com/media/RKRqGJinGNjIzNRy4P/giphy.gif)
 ---
-# Discussion
+# Example 2 - grade 7 role statement
 
-The point of a discussion to critically reflect on your results in relation to literature and policy that you navigated through in the introduction / literature review.
+These questions often have a specified word limit - it's a skill to meet all the requirements. 
 
-Critical reflection is not the limitations of the project
-.pull-left[
-- How do your methods / results differ to that of literature and policy
-  - do they differ? 
-  - why do you think that is?
+## Problem solving
 
-- What is the point of your study / what can you suggest or recommend?
-  - the point **IS NOT** to merely "support policy"
-  - be really specific 
-]
-.pull-right[
-```{r echo=FALSE, out.width = "200pt", fig.align='center'}
-knitr::include_graphics('img/filter_norm.png') 
-```
-]
+* Processes and distils a variety of information to understand a problem fully
 
-The discussion flips the funnel we saw earlier, you go from being specific about your project to broader contributions
+> Most notably during my latest position (international project manager) this entailed overcoming **daily theoretical, methodological and logistical issues that were restricting current approaches** in order to provide data-driven solutions to policy issues whilst building upon existing frameworks. For example...
 
 ---
-class: inverse, center, middle
-# Discussion example 1
+# Example 2 - grade 7 role statement
 
-> As part of Charlotte’s work with Vision Zero, an online interactive feedback map was developed to allow citizens the opportunity to share concerns about traffic safety within the city (see figure 5.1). Griffin & Jiao find that the use of such digital technologies may introduce accessibility challenges and bias, but that ultimately, ‘Crowdsourcing tools can be valuable approaches to increase geography and equity of public participation in transportation planning’ (Griffin & Jiao 2019, p. 460). The Charlotte Vision Zero report explains: ‘The top five comments submitted related to traffic safety concerns were street design, speeding, lack of pedestrian facilities, failing to yield to pedestrians and drivers running stop signs and red lights’ (City of Charlotte DOT 2019, p. 22). The analysis conducted here has the potential to quantify the impact of changes to the built environment in terms of the number of pedestrian collisions, which could be a powerful tool for advocating for pedestrian needs in the city when combined with existing efforts such as the interactive map
+## Problem solving
 
-`r countdown(minutes=1, seconds =0, warn_when = 10, top=0, left=0)`
+* Seeks the opinions and experiences of others to understand different approaches to problem solving
+
+> as an academic instructor that involved lecturing, tutoring, creation of material and mentoring I often faced multiple logistical and student problems. Postgraduate students were regularly taught about cutting edge methodological processes from academics within the department associated with high intensity learning. Consequently they would often have numerous technical queries during laboratory sessions. **Addressing these issues meant firstly obtaining a comprehensive understanding myself, seeking clarification from other staff members if necessary and breaking the practical down into logical steps for students to follow. Student feedback indicated effective problem solving with consistent positive ratings (e.g. 4.7/5)**. During this employment I also successfully attained professional association to the higher education academy through academic work, peer and supervisor reviews. 
 
 ---
+# Example 2 - grade 7 role statement
+
+## Planning and organising 
+
+* Challenges the views of others in an open and constructive way
+
+* Persuades others, using evidence based knowledge, modifying approach to deliver message effectively
+
+> Similarly, within my own projects I have **challenged the way planning departments make decisions in relation to temperature mitigation**, this is particularly important as heat related risk has now risen to the third highest cause of global disaster morality, currently excluded from future loss estimates under future predicted GreenHouse Gas (GHGs) scenarios. **Consequently my published work provides a logical approach in resolving current inadequacies in planning procedures and negating millions of dollars currently spent on reactive temperature mitigation strategies** that could be mis-guiding remediative greening actions. This research was also selected for oral presentations at multiple international conferences (e.g. European Geosciences Union) receiving overall positive feedback. 
+
+---
+# Example 2 - grade 7 role statement
+
+## Organisational Awareness
+
+* Recognises how political changes and sensitivities impact on own and team’s work
+
+> Factors included ensuring documentation was culturally sensitive, avoiding the use of Western acronyms and consulting with partner intuitions to address any concerns they might have, often being straightforward logistical solutions. All employment that I have been involved with has passed ethical approval where necessary. Political sensitives from my work would surround the potential criticism of planning departments in their lagged uptake in using data-driven approaches to inform decisions. **To avoid negative interpretations such as this my work has always been presented as building upon current approaches** taking into account the limitations of partners (e.g. spatial data expertise and software) and including them throughout the process ensured a sustained collaborative partnerships and appropriateness of the research. 
+---
+
+# Example 2 - grade 7 role statement
+
+## Organisational Awareness
+
+* Is aware of the changing needs of Londoners, anticipating resulting changes for work agendas
+
+> the documents: London’s response to climate, the spatial development strategy for London and London’s Mental Health have been extensively cited throughout my published work, amongst similar documentation from other global cities.
+
+
+> my analytical expertise can also be applied to other environmental challenges currently facing London including: air quality, energy use, waste, flood risk, water scarcity and water quality. **All these factors have a spatial dimensions and can be analysed using similar methodological approaches to ensure policy compliance, effective uptake and the future sustainability of London aligning with global initiatives including the City Resilience Framework, United Nations Sustainable Development Goals and the United Nations New Urban Agenda.** 
+
+---
+# Take aways
+
+* I only mentioned PhD once 
+
+* I described what **I** did not what **we** did on the project - as a PhD student you basically do everything.
+
+* In fact should your supervisor even be on the papers you write as an author - most journals specify comments aren't enough 
+
+* Every point I make has a supported example - **with some kind of evidence metric** - proving I can do it.
+
+* I explained the process of peer review and stated what I was responsible for
+
+> The demands of peer review are often difficult to navigate with scientific experts commenting, asking for more analysis and trying to pull apart methodological reasoning. I tackled this through a systematic and logical approach, providing additional explanation where necessary but ensuring article integrity. I was solely responsible for the final versions of all published articles and figures, **with figure selection for journal issue front covers highlighting my scientific communication ability.**   
+---
+
+# Take aways 2
+
+* I mentioned everything was delivered:
+
+  * Successfully (with examples of success)
+  * On time
+  * Within budget (value of PhD funding)
+  
+* I list the partners I interacted with + how what I was doing tried to improve their outcomes
+
+* The work was outcome focused
+
+* I outline transferable skills 
+
+* In some cases I reword what the competency is in my response
+  
+---
 class: inverse, center, middle
-# Discussion example 2
 
-> The module “Document Management” provides ways to identify the change of information effectively. In the case study, the structural team members can find out what modification has been added in the model file by the architectural team, they can compare the versions of the model and all the additional features will be highlighted as Figure 11
+# Remember this is advice and not science. I got through:
 
-`r countdown(minutes=0, seconds =30, warn_when = 10, top=0, left=0)`
+  ### the competency questions / personal statements
+  ### the online 'working with people' video scenario tests
+  ### the technical online tests (for certain roles)
+  
+### But...I never got a offer from a job interview 
 
 ---
 # Conclusion
 
-The conclusion simply provides a brief overview of the project:
+* Tools for dealing with industry interviews
 
-* restate what you set out to achieve 
+* Academia is a bubble that others outside don't know about 
 
-* briefly say how you did it
+* How to successfully demonstrate your experience to those not in academia 
 
-* what the main results were
+* Re-phrase your skills based on the intended audience + purpose
 
-* how this can contribute to future policy and/or literature
+* How to effectively respond to competency based questions
 
-**No new material or references are in the conclusion** 
----
-class: inverse, center, middle
-# Conclusion example (start of conclusion)
-
-> Improving walkability is gaining traction as an essential strategy for achieving economic, public health and sustainability goals in cities worldwide. The newfound appreciation for walkability has coincided with concern about effectively facilitating safe walking journeys. While data-driven analysis methods have long been used to study vehicular traffic, such methods are only recently being applied to pedestrian problems
-
-`r countdown(minutes=0, seconds =45, warn_when = 10, top=0, left=0)`
----
-# Conclusion
-
-The conclusion simply provides a brief overview of the project:
-
-* restate what you set out to achieve 
-
-* briefly say how you did it
-
-* what the main results were
-
-* how this can contribute to future policy and/or literature
-
-**No new material or references are in the conclusion** 
----
-# Top tips
-
-Thinks that the majority of good MSc dissertations have, that no one really tells you. Remember that you will be editing this document daily, your marker won't! Guide them through it.
-
-`r fa("check-square", fill = "black")` At the end of the introduction you might consider having a very short section explaining the structure of the thesis. Chapter 1 provides a review of recent methods into x y z, Chapter 2. A flow diagram is also useful to show how ideas / data progresses.
-
-`r fa("check-square", fill = "black")` Introduce every new chapter with a short paragraph. Summarise what the previous chapter said and state what this one will contribute or further. 
-
-`r fa("check-square", fill = "black")` Try to avoid having a results/discussion. Often (not always) this means there will be no discussion. 
-
-`r fa("check-square", fill = "black")` Look at the good dissertations, how many figures do they have? Are they all referenced in the text? Are they nicely laid out? Are variables named with _ or IN CAPS or A MiXtURE
-
-`r fa("check-square", fill = "black")` Make your work relevant - Cheyne's dissertation section 2.2.1 - Global and local policies.
-
----
-# Top tips 2
-
-`r fa("check-square", fill = "black")`Send your supervisor work before meetings.
-
-`r fa("check-square", fill = "black")`Ask questions the right way.
-
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-library(dplyr)
-library(knitr)
-library(kableExtra)
-library(data.table)
-DT = data.table(
-  Student = c("Hussein Mahfouz","Cheyne Campbell","Jamie Ser Nee Tan","Greg Slater","Thomas Keel","Joshua Yee"),
-  Award = c("GIScience (joint)","Planning and Environment","Population Geography","Planning and Environment", "GIScience (joint)", "Population Geography"),
-  Year = c(2020,2020,2020,2019,2019,2019),
-  url = c("https://github.com/Hussein-Mahfouz/Bicycle-Network-Optimization","https://github.com/cheynecampbell/charlotte-pedestrian-safety", "https://github.com/jamietansernee/sg-heritage-gentrification", "script in thesis", "https://github.com/Thomasjkeel/MSc_Dissertation", "https://jytg17.github.io/Unpacking-the-Nuances-of-Londons-Neighbourhood-Change-Gentrification-Trajectories/"))
-
-dt_url <- c("https://github.com/Hussein-Mahfouz/Bicycle-Network-Optimization","https://github.com/cheynecampbell/charlotte-pedestrian-safety", "https://github.com/jamietansernee/sg-heritage-gentrification", "", "https://github.com/Thomasjkeel/MSc_Dissertation", "https://jytg17.github.io/Unpacking-the-Nuances-of-Londons-Neighbourhood-Change-Gentrification-Trajectories/")
-
-DT %>% 
-  mutate(url = cell_spec(DT$url, "html", link = dt_url)) %>%
-  kable("html", escape = FALSE) %>%
-  kable_styling(bootstrap_options = c("hover", "condensed")) 
-```
-
----
-# It's iterative 
-
-.pull-left[
-The process **you think** you will do
-
-- Introduction
-
-- Literature review
-
-- Methods
-
-- Results
-
-- Discussion 
-
-- Conclusion
-]
---
-.pull-right[
-The process **you will** do
-
-- Literature review
-
-- Methods
-
-- Literature review
-
-- Methods
-
-- Results
-
-- Discussion 
-
-- Literature review
-
-- Discussion 
-
-- Introduction
-
-- Conclusion
-
-]
----
-# Project planning
-
-Gantt Charts, Trello boards, Research logs
-
-.pull-left[
-```{r image_grobs, echo=FALSE, fig.align="default", out.width="100%"}
-knitr::include_graphics('img/GanttChart.png') 
-```
-]
-.pull-right[
-```{r image_grobs2, echo=FALSE, fig.align="default", fig.show="hold", out.width="100%"}
-knitr::include_graphics('img/trello.png') 
-```
-]
-
-```{r image_grobs3, echo=FALSE, fig.align="default", fig.show="hold", out.width="30%"}
-knitr::include_graphics('img/research_log.png') 
-```
-
-class: inverse, center, middle
-# Make some kind of plan 
---
-
-### But be adaptable when it changes
-
----
-# Original etc
-
-**Original:** You need to write the assignment in your own words that tells a narrative through the existing research. Don’t just state what others have done 
-present or existing from the beginning; first or earliest
-
-**Coherent:** Make your points in a logical manner, with support from literature (or policy documents). Don’t just assume the reader knows what you are talking about because they are an academic. Build the story, don’t just jump to the ending.
-logical and consistent
-
-**Insightful:** Clearly showing that you understand the methods, concepts and debates discussed but also how your analysis (or discussion) did or could add meaning in some way. 
-having or showing an accurate and deep understanding; perceptive.
-
----
-# Recall research language
-
-**Research gap:** You need to identify and discuss all the existing work and lead the reader to the gap. What is the gap. What hasn’t been done. Why is that important. MISSING
-
-**Contribution:** You’ve identified the gap. Be specific throughout your thesis what you are contributing…..As a result this thesis attempts to combine these two datasets for THIS REASON. Continue this through the thesis, especially in the discussion. A POTENTIAL ANSWER
-
-**Novel:** What is new? Remember this could be a new method, a new study area or a bit of both (or mix too). E.g. use an existing method with a slight variation appropriate for a new study area and some different data as that’s what was available or is free! WHAT IS NEW
----
-class: inverse, center, middle
-# Write yours down
-
-Try writing yours down now
-
-Do this regularly
-
-`r countdown(minutes=0, seconds =45, warn_when = 10, top=0, left=0)`
----
-class: inverse, center, middle
-# Read the markscheme weekly
-
-> Interpretations of results are very well constructed, clear and focused with a well developed narrative throughout. The discussion provides appropriate critical reflections on the project’s outcomes, strengths and limitations with good links to relevant academic and policy (if applicable) debates.
----
-
-class: inverse, center, middle
-# Set a realistic research question 
-
-### The more specific you are with it the easier it will be to undertake your project
-
-this paper aims to critically examine typologies of neighbourhood change in order to provide insight into different pathways of neighbourhood transition in Singapore, while constructing an effective visualisation of Singapore’s gentrification landscape to aid spatial targeting of policy-making.
-
---
-
-to evaluate the effects of family planning policies on the population, and the response from population to family planning policies
+* **Hopefully not waste six months post-PhD working all this out**
 
 ---
 
 class: inverse, center, middle
-# Objectives?  
 
-### Often confused with research questions. Usually you have 1 or max 2, research questions
-
-What features of the built environment are thought to influence pedestrian safety, and can our understanding of these relationships be strengthened?
-
-What are the challenges when it comes to studying pedestrian safety in terms of the lack of available pedestrian data? Does Charlotte collect and make public the data required for this type of analysis?
-
---
-
-To simulate the population changes in three different policy
-
-To understand the policy changes according to the simulation results
-
----
-# Recall aims, questions and objectives
-
-**Research question:** Is the central question to the thesis that you will try to answer
-
-How might longitudinal census data and resale prices of residential properties lend insight into spatial patterns of potential neighbourhood gentrification prompted by conserved built heritage in Singapore?
-
----
-# Recall aims, questions and objectives
-
-**Research aim:** Is a broad statement of intent that you will try and achieve within your thesis, it is usually just the research question rephrased
-
-this paper aims to critically examine typologies of neighbourhood change in order to provide insight into different pathways of neighbourhood transition in Singapore, while constructing an effective visualisation of Singapore’s gentrification landscape to aid spatial targeting of policy-making
-
----
-# Recall aims, questions and objectives
-
-**Research objectives:** Think of research objectives as the set of measurable and specific goals you need to achieve your aim / research question. As you tick each one off you build a stronger case for answering the research question. It’s good practice (but not always essential) for objectives to follow the S.M.A.R.T. format
-
-* What features of the built environment are thought to influence pedestrian safety, and can our understanding of these relationships be strengthened?
-
-* What are the challenges when it comes to studying pedestrian safety in terms of the lack of available pedestrian data? Does Charlotte collect and make public the data required for this type of analysis?
-
-* Most importantly, how can the findings of this research be used to improve upon existing policy or urban design strategies by highlighting targeted areas and adjustments for improved pedestrian safety?
----
-
-class: inverse, center, middle
-# Research question, aim, objectives?  
---
-
-### Different examples have different combinations 
---
-
-You need a research question and or aim
-
-**AND** objectives
----
-
-class: inverse, center, middle
-# Where do I state them?  
---
-
-### Usually at the end of the introduction 
-
----
-# How else to study
-
-## It's a 9-5 job
-
-* **Study in chunks** - research a particular topic for a set amount of time - a day, two days, a week? Depending on how important that topic is to your dissertation 
-
-* **Plan** - what do you want to achieve today
-
-* **Reflect** - did you do it? why not? was it too ambitious? was the task bigger than you thought
-
-* **adjust** - use the new knowledge you've gained, can you now adjust your research question or topic even?
-
-* **is it useful** - do you need this? What is it contributing? 
-
-* **don't read everything** - there is so much out there, at some point you need to stop, when is that? 
----
-
-class: inverse, center, middle
-# Reward yourself  
---
-
-### After doing x i will do y 
----
-# How else to study 2
-
-## Collaborate / talk to each other
-
-* With your supervisor 
-
-* With each other
-
-* If you have questions come to discuss them + solutions rather than expect answers.
-
-> I'm struggling to classify urban areas from satellite imagery, what do i do
-
-> I'm struggling to classify urban areas from satellite imagery. I've tried using Maximum likelihood but it doesn't produce very good results. I've read about SVM, do you think i should try it 
-
-* Describe your work in detail, including in captions. "Figure 6: Plot of GWR"
----
-
-class: inverse, center, middle
-# What are you selling
-
-```{r echo=FALSE, out.width = "400pt", fig.align='center'}
-knitr::include_graphics('img/van.jpg') 
-```
-
----
-# Next week
-
-* How to set up your dissertation document
-
-  * Word (briefly)
-
-  * Bookdown (using RMarkdown) - https://andrewmaclachlan.github.io/CASA-MSc-thesis/
-
-* Any requests on Slack
-
-* Q and A
+![](https://media.giphy.com/media/xT5LMHO4pnXbuU3J5K/giphy.gif)
